@@ -68,6 +68,8 @@ function handleNo() {
         "Please? Pretty please?",
         "Why not?:(",
         "Sige na bah:(",
+        "grabe ka:(",
+        "sobra na ni na:<",
         "please?:(("
     ];
 
