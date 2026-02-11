@@ -2,7 +2,7 @@
 function createHeart() {
     const heart = document.createElement('div');
     heart.className = 'heart-bg';
-    heart.innerHTML = '❤️';
+    heart.innerHTML = '❤️', '😘', '🥰';
     heart.style.left = Math.random() * 100 + '%';
     heart.style.animationDelay = Math.random() * 5 + 's';
     heart.style.animationDuration = (Math.random() * 3 + 4) + 's';
@@ -69,7 +69,7 @@ function handleNo() {
         "Why not?:(",
         "Sige na bah:(",
         "grabe ka:(",
-        "sobra na ni na:<",
+        "sobra na ni ba:<",
         "please?:(("
     ];
 
